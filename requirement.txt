@@ -1,0 +1,3 @@
+discord.py-self @ git+https://github.com/voidpro-dev/discord.py-self.git@4bca8930ec8fb0bc32965320dcd46b782b3d8e00
+pyotp==2.9.0
+python-dotenv==1.0.1
