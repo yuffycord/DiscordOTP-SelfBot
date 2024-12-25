@@ -30,4 +30,10 @@ $ pythonw main.py
 ### Q.PythonとPythonwの違いはなんですか？  
 A.Pythonwはバックグラウンドでpythonプロセスを実行するためのツールです。  
 Windows上でホストする際におすすめです。  
-ただし、BOTを止めるにはタスクキル、Jishaku-Selfによるシャットダウンなどの方法のみとなります
+ただし、BOTを止めるにはタスクキル、Jishaku-Selfによるシャットダウンなどの方法のみとなります  
+### Q.requirements.txtがないってエラーでます  
+A.よく見ましょう。本当にrequirements.txtなんてファイルはあるんか？  
+## 注意事項  
+セルフボットはDiscordの規約違反です  
+ちゃんとperm設定しないと垢が飛ぶぞ！  
+## [クレーム対応場所](https://discord.gg/lunaclient)
